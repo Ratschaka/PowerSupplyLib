@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elias\\Desktop\\SW\\GitHub projects\\PowerSupplyLib\\PowerSupplyLib.csproj": {}
+    "c:\\Users\\elias\\Desktop\\SW\\GitHub projects\\PowerSupplyLib\\PowerSupplyLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elias\\Desktop\\SW\\GitHub projects\\PowerSupplyLib\\PowerSupplyLib.csproj": {
+    "c:\\Users\\elias\\Desktop\\SW\\GitHub projects\\PowerSupplyLib\\PowerSupplyLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elias\\Desktop\\SW\\GitHub projects\\PowerSupplyLib\\PowerSupplyLib.csproj",
+        "projectUniqueName": "c:\\Users\\elias\\Desktop\\SW\\GitHub projects\\PowerSupplyLib\\PowerSupplyLib.csproj",
         "projectName": "PowerSupplyLib",
-        "projectPath": "C:\\Users\\elias\\Desktop\\SW\\GitHub projects\\PowerSupplyLib\\PowerSupplyLib.csproj",
+        "projectPath": "c:\\Users\\elias\\Desktop\\SW\\GitHub projects\\PowerSupplyLib\\PowerSupplyLib.csproj",
         "packagesPath": "C:\\Users\\elias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elias\\Desktop\\SW\\GitHub projects\\PowerSupplyLib\\obj\\",
+        "outputPath": "c:\\Users\\elias\\Desktop\\SW\\GitHub projects\\PowerSupplyLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elias\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "w0GLwgX9FzG3LhsOl/7LHsYK1KgsME0rvh65SH0i1F6x64in/fjQKG0vdsxtoZNLNsknNjFmudTmzL7qYNAOfw==",
+  "dgSpecHash": "aDMuIeOwDgscVlFXEdtq3kOS6AUAsfHmF972wIbqdHoWd+f5sFCwRkxm6ronhY3lUawi151i9fYERP0h2psQrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elias\\Desktop\\SW\\GitHub projects\\PowerSupplyLib\\PowerSupplyLib.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\elias\\Desktop\\SW\\GitHub projects\\PowerSupplyLib\\PowerSupplyLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elias\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\elias\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\elias\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\elias\\.nuget\\packages\\runtime.native.system.io.ports\\6.0.0\\runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\elias\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\elias\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\6.0.0\\runtime.osx-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\elias\\.nuget\\packages\\system.io.ports\\6.0.0\\system.io.ports.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
